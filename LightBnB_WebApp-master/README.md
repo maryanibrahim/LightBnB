@@ -1,5 +1,5 @@
 # LightBnB
-
+It's all about that database. build the back-end queries that allow users to search for accommodations in an online travel app. You'll connect to a PostgreSQL database using Node's postgres library and write the queries that deliver the right data to the front end.
 ## Project Structure
 
 ```
